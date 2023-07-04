@@ -1,6 +1,6 @@
 public class PrimerosPasos {
     public static void main(String[] args) throws Exception {
-        
+
         // holaMundo();
         // saludoNombre();
         // saludoNombre2("Nombre");//Remplazar el parametro
@@ -9,42 +9,42 @@ public class PrimerosPasos {
         // variables();
     }
 
+    /// ----------------------------------------------------------------///
+    /// ----------------------------------------------------------------///
+    /// ----------------------¡Manos a la obra!-------------------------///
+    /// ----------------------------------------------------------------///
+    /// ----------------------------------------------------------------///
 
-  ///----------------------------------------------------------------///
-  ///----------------------------------------------------------------///
-  ///----------------------¡Manos a la obra!-------------------------///
-  ///----------------------------------------------------------------///
-  ///----------------------------------------------------------------///
-
-    //Crear un programa que imprima "Hola Mundo" en la consola. 
-    public static void holaMundo(){
+    // Crear un programa que imprima "Hola Mundo" en la consola.
+    public static void holaMundo() {
         System.out.println("Hola Mundo");
     }
 
-    //Crear un programa que imprima "Mi nombre es [tu nombre]" en la consola. 
-    public static void saludoNombre(){
+    // Crear un programa que imprima "Mi nombre es [tu nombre]" en la consola.
+    public static void saludoNombre() {
         String nombre = "Nombre";
         System.out.println("Mi nombre es " + nombre);
     }
 
-    //Mismo ejercicio pero esta vez ejecutamos la funcion con un parametro
-    public static void saludoNombre2(String nombre){
-        System.out.println("Mi nombre es "+ nombre);
+    // Mismo ejercicio pero esta vez ejecutamos la funcion con un parametro
+    public static void saludoNombre2(String nombre) {
+        System.out.println("Mi nombre es " + nombre);
     }
 
-    //Crear un programa que imprima "Mi edad es [edad]" en la consola.
-    public static void saludoEdad(){
+    // Crear un programa que imprima "Mi edad es [edad]" en la consola.
+    public static void saludoEdad() {
         int edad = 5;
         System.out.println("Mi edad es " + edad);
     }
 
-    //Declarar una variable para edad y otra para nombre e imprimir en pantalla un texto que diga “Mi nombre es [nombre], y tengo [edad] años”
-    public static void saludoNombreEdad(String nombre, int edad){
+    // Declarar una variable para edad y otra para nombre e imprimir en pantalla un
+    // texto que diga “Mi nombre es [nombre], y tengo [edad] años”
+    public static void saludoNombreEdad(String nombre, int edad) {
         System.out.println("Hola mi nombre es: " + nombre + "\nTengo " + edad + " Años");
     }
 
-    //Crear e imprime una variable por cada uno de los siguientes tipos de dato: 
-    public static void variables(){
+    // Crear e imprime una variable por cada uno de los siguientes tipos de dato:
+    public static void variables() {
         boolean truefalse = true;
         char caracter = 'a';
         String texto = "Hola mundo";
