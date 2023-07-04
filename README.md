@@ -1,18 +1,61 @@
-## Getting Started
+# Ejercicios Resueltos en Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este repositorio contiene una colección de ejercicios resueltos en Java. Cada ejercicio está diseñado para practicar y mejorar tus habilidades de programación en Java.
 
-## Folder Structure
+Los ejercicios están organizados por categorías y cada uno incluye una descripción del problema, seguido de la solución en código Java.
 
-The workspace contains two folders by default, where:
+## Cómo utilizar este repositorio
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+1. Clona este repositorio en tu máquina local:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+    git clone https://github.com/VDPMata/ejerciciosJava.git
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-## Dependency Management
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+2. Navega a la carpeta del ejercicio que deseas revisar: 
+
+    cd ejerciciosjava/src/
+
+
+3. Abre el archivo `Main.java` en tu entorno de desarrollo favorito y revisa la solución.
+
+4. Si deseas ejecutar el código, compila y ejecuta el archivo `Main.java` en tu entorno de desarrollo o desde la línea de comandos.
+
+` Ejemplo de como ejecutar los archivos, a lo largo de los ejercicios nos vamos a encontrar con un Main con funciones a ejecutar, debemos ir borrando el comentario de cada una para ejecutar la misma... en el ejemplo siguiente se puede notar como la funcion holaMundo() esta lista para ser ejecutada...
+
+    public class PrimerosPasos {
+        public static void main(String[] args) throws Exception {
+        
+         holaMundo();
+        // saludoNombre();
+        // saludoNombre2("Nombre");//Remplazar el parametro
+        // saludoEdad();
+        // saludoNombreEdad("Nombre",10);//Remplazar los parametros
+        // variables();
+        }
+    }
+
+`
+## Lista de Archivos
+
+A continuación se muestra una lista de los archivos con ejercicios resueltos disponibles en este repositorio:
+
+- [Archivo 1: PrimerosPasos](src/PrimerosPasos.java)
+- [Archivo 2: myScanner](src/myScanner.java)
+- [Archivo 3: tryStringMath](src/tryStringMath.java)
+- [Archivo 4: estructurasControl](src/estructurasControl.java)
+- [Archivo 5: arrayBucles](src/arrayBucles.java)
+- [Archivo 6: buclesDos](src/buclesDos.java)
+- [Archivo 7: buclesTres](src/buclesTres.java)
+
+Dentro de cada archivo encontraras soluciones de varios ejercicios...
+
+## Contribuciones
+
+Si deseas contribuir a este repositorio, puedes hacerlo de las siguientes formas:
+
+- Agregando nuevos ejercicios resueltos.
+- Mejorando las soluciones existentes.
+- Corrigiendo errores o problemas.
+
+¡Agradecemos tus contribuciones!
