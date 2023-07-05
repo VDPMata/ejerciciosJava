@@ -40,18 +40,17 @@ Los ejercicios están organizados por categorías y cada uno incluye una descrip
 
 A continuación se muestra una lista de los archivos con ejercicios resueltos disponibles en este repositorio:
 
-- [Archivo 1: PrimerosPasos](src/PrimerosPasos.java)
-- [Archivo 2: myScanner](src/myScanner.java)
-- [Archivo 3: tryStringMath](src/tryStringMath.java)
-- [Archivo 4: estructurasControl](src/estructurasControl.java)
-- [Archivo 5: arrayBucles](src/arrayBucles.java)
-- [Archivo 6: buclesDos](src/buclesDos.java)
-- [Archivo 7: buclesTres](src/buclesTres.java)
-- [Archivo 8: desafios](src/desafios.java)
-- [Archivo 9: wrappers](src/wrappers.java)
-- [Archivo 10: desafios](src/desafios.java)
-- [Archivo 11: repaso1](src/repaso1.java)
-- [Archivo 12: repaso2](src/repaso2.java)
+- [Archivo 1: PrimerosPasos](src/1_primerosPasos/primerosPasos.java)
+- [Archivo 2: myScanner](src/1_primerosPasos/myScanner.java)
+- [Archivo 3: tryStringMath](src/2_EstructurasControl/tryStringMath.java)
+- [Archivo 4: estructurasControl](src/2_EstructurasControl/estructurasControl.java)
+- [Archivo 5: arrayBucles](src/3_BuclesyArrays/arrayBucles.java)
+- [Archivo 6: buclesDos](src/3_BuclesyArrays/buclesDos.java)
+- [Archivo 7: wrappers](src/3_BuclesyArrays/wrappers.java)
+- [Archivo 8: buclesTres](src/3_BuclesyArrays/buclesTres.java)
+- [Archivo 9: desafios](src/3_BuclesyArrays/desafios.java)
+- [Archivo 10: repaso1](src/4_Repaso/repaso1.java)
+- [Archivo 11: repaso2](src/4_Repaso/repaso2.java)
 
 
 Dentro de cada archivo encontraras soluciones de varios ejercicios...
