@@ -5,6 +5,12 @@ public class desafios {
         generadorContrasenas();
     }
 
+    /// ----------------------------------------------------------------///
+    /// ----------------------------------------------------------------///
+    /// ----------------------¡Manos a la obra!-------------------------///
+    /// ----------------------------------------------------------------///
+    /// ----------------------------------------------------------------///
+
     // Generador de contraseñas
     // Desarrollar un programa en Java que genere una contraseña aleatoria. Esta
     // contraseña estará compuesta por una mezcla de letras mayúsculas, letras
@@ -102,5 +108,4 @@ public class desafios {
 
     // Por ultimo imprime los resultado en consola.
 
-   
 }

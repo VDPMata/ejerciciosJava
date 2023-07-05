@@ -7,8 +7,14 @@ public class wrappers {
         // verificarLetras();
         // espaciosBlancos();
         // numeroValido();
-        cuentaDigitos();
+        //cuentaDigitos();
     }
+
+    /// ----------------------------------------------------------------///
+    /// ----------------------------------------------------------------///
+    /// ----------------------¡Manos a la obra!-------------------------///
+    /// ----------------------------------------------------------------///
+    /// ----------------------------------------------------------------///
 
     // Suma de números: Pide al usuario que ingrese un string que represente un
     // entero, y luego un string que represente un doble.

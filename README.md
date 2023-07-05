@@ -47,6 +47,12 @@ A continuación se muestra una lista de los archivos con ejercicios resueltos di
 - [Archivo 5: arrayBucles](src/arrayBucles.java)
 - [Archivo 6: buclesDos](src/buclesDos.java)
 - [Archivo 7: buclesTres](src/buclesTres.java)
+- [Archivo 8: desafios](src/desafios.java)
+- [Archivo 9: wrappers](src/wrappers.java)
+- [Archivo 10: desafios](src/desafios.java)
+- [Archivo 11: repaso1](src/repaso1.java)
+- [Archivo 12: repaso2](src/repaso2.java)
+
 
 Dentro de cada archivo encontraras soluciones de varios ejercicios...
 

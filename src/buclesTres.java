@@ -7,8 +7,14 @@ public class buclesTres {
         // busquedaBinaria();
         // arreglosIguales();
         // busquedaArray();
-        rellenarArray();
+        // rellenarArray();
     }
+
+    /// ----------------------------------------------------------------///
+    /// ----------------------------------------------------------------///
+    /// ----------------------¡Manos a la obra!-------------------------///
+    /// ----------------------------------------------------------------///
+    /// ----------------------------------------------------------------///
 
     // 1. Ordenar en forma descendente: Escribir un programa que ordene un arreglo
     // de enteros en forma descendente
