@@ -1,4 +1,4 @@
-public class PrimerosPasos {
+public class primerosPasos {
     public static void main(String[] args) throws Exception {
 
         // holaMundo();
