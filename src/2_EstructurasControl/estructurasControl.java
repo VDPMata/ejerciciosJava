@@ -50,7 +50,6 @@ public class estructurasControl {
   // solicite
   // al usuario un número y determine si es positivo, negativo o cero. Mostrar el
   // resultado en pantalla.
-
   public static void positivoNegativo() {
     Scanner scanner = new Scanner(System.in);
     System.out.println("Ingrese un numero");
@@ -90,7 +89,6 @@ public class estructurasControl {
   // Si la contraseña ingresada es correcta, mostrar un mensaje de "Acceso
   // concedido".
   // De lo contrario, mostrar un mensaje de "Acceso denegado".
-
   public static void contrasena() {
     int passDefinida = 2365;
     Scanner scanner = new Scanner(System.in);
@@ -110,7 +108,6 @@ public class estructurasControl {
   // Si el precio es mayor o igual a $100, aplicar un descuento del 10% y mostrar
   // el nuevo precio.
   // De lo contrario, mostrar el precio original sin descuento.
-
   public static void descuento() {
     Scanner scanner = new Scanner(System.in);
     System.out.println("Ingrese el precio");
@@ -128,7 +125,6 @@ public class estructurasControl {
   // representando un día de la semana, y muestre en pantalla el nombre
   // correspondiente a ese día.
   // Utilizar la estructura "switch" para implementar este programa.
-
   public static void diaOpcion() {
     Scanner scanner = new Scanner(System.in);
     System.out.println("Un dia del 1 al 7");
@@ -205,7 +201,6 @@ public class estructurasControl {
   // triángulo). Luego, mostrar en pantalla
   // el área correspondiente a la figura seleccionada. Utilizar la estructura
   // "switch" para implementar este programa.
-
   public static void figurasGeometricas() {
     Scanner scanner = new Scanner(System.in);
     System.out.println("Ingrese un numero del 1 al 3");

@@ -10,6 +10,13 @@ public class matrices {
 
     }
 
+    /// ----------------------------------------------------------------///
+    /// ----------------------------------------------------------------///
+    /// ----------------------¡Manos a la obra!-------------------------///
+    /// ----------------------------------------------------------------///
+    /// ----------------------------------------------------------------///
+
+    
     // 1. Matriz de elementos: Crea una matriz de 3x3 con enteros y muestra su
     // contenido por consola en formato de matriz. Luego, muestra el mismo contenido
     // en formato de arreglo. Por ejemplo:
@@ -20,7 +27,6 @@ public class matrices {
     // Arreglo:
     // [5] [3] [2]
     // [8] [1] [5]
-
     public static void matrizOrgArr() {
         int[][] matriz = {
                 { 5, 3, 2 },
@@ -45,7 +51,6 @@ public class matrices {
 
     // 2. Suma de los elementos de una matriz: Calcula e imprime la suma de todos
     // los elementos de la matriz.
-
     public static void sumaMatriz() {
         int[][] matriz = {
                 { 5, 3, 2 },
@@ -63,7 +68,6 @@ public class matrices {
 
     // 3. Encontrar el número más grande y más pequeño en una matriz: Encuentra y
     // muestra el número más grande y más pequeño en una matriz.
-
     public static void mayorMenorMatriz() {
         int[][] matriz = {
                 { 5, 3, 2 },

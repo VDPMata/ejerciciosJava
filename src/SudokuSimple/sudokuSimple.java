@@ -14,24 +14,17 @@ public class sudokuSimple {
     // algoritmo:
 
     // Matriz 1:
-
     // 8 1 6
-
     // 3 5 7
-
     // 4 9 2
 
     // Matriz 2:
-
     // 2 7 6
-
     // 9 5 1
-
     // 4 3 8
 
     // El programa verificará si cada matriz cumple con
     // las condiciones de una matriz mágica.
-
     public static void sudokuValido() {
 
         int[][] matriz = {

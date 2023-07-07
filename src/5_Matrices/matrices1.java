@@ -4,8 +4,14 @@ public class matrices1 {
     public static void main(String[] args) {
         // sumaMatrices();
         // multMatriz();
-        espiralMatriz();
+        // espiralMatriz();
     }
+
+    /// ----------------------------------------------------------------///
+    /// ----------------------------------------------------------------///
+    /// ----------------------¡Manos a la obra!-------------------------///
+    /// ----------------------------------------------------------------///
+    /// ----------------------------------------------------------------///
 
     // 1. Sumar dos matrices de la misma dimensión: La suma de dos matrices se
     // realiza sumando cada elemento correspondiente en las dos matrices. Por
@@ -138,7 +144,6 @@ public class matrices1 {
     // [1, 2, 3, 4]
     // [10, 11 , 12 ,5]
     // [9, 8, 7, 6]
-
     public static void espiralMatriz() {
 
         Scanner scanner = new Scanner(System.in);

@@ -21,14 +21,14 @@ public class Buscaminas {
         mapa = new char[filas][columnas];
         conteoMinas = new int[filas][columnas];
 
-        // Inicializar mapa con celdas vacías
+
         for (int i = 0; i < filas; i++) {
             for (int j = 0; j < columnas; j++) {
                 mapa[i][j] = celdaVacia;
             }
         }
 
-        // Colocar minas de manera aleatoria
+
         Random random = new Random();
         int minasColocadas = 0;
         while (minasColocadas < minas) {
@@ -67,7 +67,6 @@ public class Buscaminas {
     private int contarMinasCircundantes(int fila, int columna) {
         int minasCircundantes = 0;
 
-        // Verificar celdas circundantes
         for (int i = fila - 1; i <= fila + 1; i++) {
             for (int j = columna - 1; j <= columna + 1; j++) {
                 if (i >= 0 && i < filas && j >= 0 && j < columnas) {

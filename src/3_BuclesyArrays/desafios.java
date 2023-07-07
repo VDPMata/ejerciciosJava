@@ -27,7 +27,6 @@ public class desafios {
 
     // Finalmente, convierta el arreglo de caracteres en un String con un for y
     // luego imprima la contraseña generada en la consola.
-
     public static void generadorContrasenas() {
         int longitud = 8;
 
