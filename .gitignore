@@ -1,5 +1,5 @@
 # File
-*.index
+index.java
 
 # Compiled class file
 *.class

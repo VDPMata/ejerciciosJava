@@ -6,7 +6,7 @@ public class matrices {
         // mayorMenorMatriz();
         // parImparMatriz();
         // imprimirInverso();
-        //matrizTranspuesta();
+        // matrizTranspuesta();
 
     }
 
