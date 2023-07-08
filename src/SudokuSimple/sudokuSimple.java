@@ -2,7 +2,7 @@ package SudokuSimple;
 
 public class sudokuSimple {
     public static void main(String[] args) {
-        // sudokuValido();
+         sudokuValido();
     }
 
     // Matriz mágica
